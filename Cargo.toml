@@ -1,0 +1,7 @@
+[package]
+name = "my-iron"
+version = "0.1.0"
+authors = ["徐庆伟 <xuqingwei@baidu.com>"]
+
+[dependencies]
+iron = "*"
